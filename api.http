@@ -1,0 +1,9 @@
+GET http://localhost:3000/tweets
+
+###
+POST http://localhost:3000/tweets
+Content-Type: application/json
+
+{
+    "text": "conteudo do tweet111111"
+}
