@@ -3,7 +3,7 @@
 Participe gratuitamente: https://imersao.fullcycle.com.br/
 
 ## Sobre o repositório
-Esse repositório contém o código-fonte ministrado na aula Criando API Rest com Nest.js: [https://www.youtube.com/watch?v=PHIMN85trgk](https://www.youtube.com/watch?v=PHIMN85trgk)
+Esse repositório contém o código-fonte ministrado na aula Intensivão com Nest.js: [https://www.youtube.com/watch?v=PHIMN85trgk](https://www.youtube.com/watch?v=PHIMN85trgk)
 
 ## Rodar a aplicação
 
